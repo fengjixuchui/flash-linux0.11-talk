@@ -1,4 +1,4 @@
-## 你管这破玩意叫操作系统源码 —— 像小说一样品读 Linux 0.11 核心代码
+## 品读 Linux 0.11 核心代码
 
 <p align='center'>
 <a href="https://www.github.com/sunym1993" target="_blank"><img src="https://img.shields.io/badge/作者-闪客sun-2277cc.svg?style=flat-square&logo=GitHub"></a>
@@ -33,10 +33,14 @@
 
 ### 已发布文章：
 
+[开篇词](https://mp.weixin.qq.com/s/tvbkGLfhDq03xxM-FZ4zuA)
+
 * **第一部分：进入内核前的苦力活**
 
    * [第一回 最开始的两行代码](https://mp.weixin.qq.com/s/LIsqRX51W7d_yw-HN-s2DA)
    * [第二回 自己给自己挪个地儿](https://mp.weixin.qq.com/s/U-txDYt0YqLh5EeFOcB4NQ)
+   * [第三回 做好最最基础的准备工作](https://mp.weixin.qq.com/s/90QBJ-lP_-du2qQJxNF-Fw)
+   * [第四回 把自己在硬盘里的其他部分也放到内存来](https://mp.weixin.qq.com/s/hStc-y-sabP-KwJUDUesTw)
 
 * **第二部分：大战前期的初始化工作**
 
